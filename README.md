@@ -1,6 +1,6 @@
 # DoubleDrops - v1 pre-release 1
 ![ListedPlugins Banner](https://user-images.githubusercontent.com/102333069/160028572-dde26fbb-746d-40be-af96-9f3121d5b94e.JPG)
-NamelessMC is a free, easy to use & powerful website software for your Minecraft server, which includes a large range of features.
+Listed Plugins is a non-profit company developing plugins for Minecraft Java!
 
 NamelessMC version 2.0.0 is still a pre-release, and is not yet recommended for production use. Keep up to date with development in our [Spigot thread](https://www.spigotmc.org/threads/nameless-minecraft-website-software.34810) and our [Discord server](https://discord.gg/nameless).
 
