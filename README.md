@@ -19,23 +19,10 @@ Download DoubleDrops v1 pre-release 1 on [our SpigotMC](https://www.spigotmc.org
 ## Support
 Support can be found in one of the following places:
 - Discord [<img src="https://discordapp.com/api/guilds/954176824101961758/widget.png?style=shield">](https://dsc.gg/listeddevelopment)
-- [Official support forum](https://namelessmc.com/forum)
-- [SpigotMC](https://www.spigotmc.org/threads/nameless-minecraft-website-software.34810/)
+- Official support forum: Coming Soon!
+- [SpigotMC](https://www.spigotmc.org/resources/doubledrops.100783/)
 
-Feature requests can be posted on the [forum](https://namelessmc.com/forum/view/7-web-feature-requests/), and bugs can be reported in the [GitHub Issues](https://github.com/NamelessMC/Nameless/issues) tab.
-
-## Plugin
-For Minecraft integration, you can install the Nameless Plugin in your Spigot server. Currently the plugin is only available for spigot, but we're working on bringing it to different server software, such as Sponge and BungeeCord. You can find a list of features and installation instructions in the [plugin readme](https://github.com/NamelessMC/Nameless-Plugin/blob/master/README.md).
-
-## Translations
-NamelessMC translations are kindly provided by the community. Currently available translations can be found [here](https://github.com/NamelessMC/Nameless/tree/v2/custom/languages). Please note, not all translations may be up to date.
-
-#### Contributing translation updates
-If you would like to assist with the NamelessMC development by providing an updated translation, please feel free to fork the repository here on GitHub and create any pull requests. If you need help or want to discuss changes with fellow translators, visit the [NamelessMC Translators](https://discord.gg/7Dku3fE) discord server.
-
-#### Translation credits
-Translation credits can be found within CONTRIBUTORS.md
 
 ## Special Thanks
-- All NamelessMC [contributors](https://github.com/NamelessMC/Nameless/graphs/contributors).
+- All ListedPlugins [contributors](https://github.com/NamelessMC/Nameless/graphs/contributors).
 - [JetBrains](https://www.jetbrains.com/), whose products are used to develop the NamelessMC project.
