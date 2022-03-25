@@ -18,7 +18,7 @@ Download DoubleDrops v1 pre-release 1 on [our SpigotMC](https://www.spigotmc.org
 
 ## Support
 Support can be found in one of the following places:
-- Discord [<img src="https://discordapp.com/api/guilds/246705793066467328/widget.png?style=shield">](https://discord.gg/nameless)
+- Discord [<img src="https://discordapp.com/api/guilds/246705793066467328/widget.png?style=shield">](https://dsc.gg/listeddevelopment)
 - [Official support forum](https://namelessmc.com/forum)
 - [SpigotMC](https://www.spigotmc.org/threads/nameless-minecraft-website-software.34810/)
 
