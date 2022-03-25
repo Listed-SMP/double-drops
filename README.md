@@ -2,28 +2,19 @@
 ![ListedPlugins Banner](https://user-images.githubusercontent.com/102333069/160028572-dde26fbb-746d-40be-af96-9f3121d5b94e.JPG)
 Listed Plugins is a non-profit company developing plugins for Minecraft Java!
 
-NamelessMC version 2.0.0 is still a pre-release, and is not yet recommended for production use. Keep up to date with development in our [Spigot thread](https://www.spigotmc.org/threads/nameless-minecraft-website-software.34810) and our [Discord server](https://discord.gg/nameless).
+Listed Plugins is in beta and some of our products may not work as intended. Keep up to date with development in our [Spigot thread](https://www.spigotmc.org/threads/doubledrops.550591/) and our [Discord server](https://dsc.gg/listeddevelopment).
 
-The official project website, providing support and additional downloads such as modules and templates, can be found at [https://namelessmc.com/](https://namelessmc.com/).
+The official project website, providing support and additional downloads such as beta downloads is in a work in progress, and will be out soon.
 
 ## Features
-The following list is a brief summary of the features available in v2 pre-release 12:
-- API - if used in conjunction with the [Nameless Plugin for v2](https://www.spigotmc.org/resources/nameless-plugin-for-v2.59032/), integration with your Minecraft server can be provided.
-- Custom page system - create your own HTML pages and even restrict access to them depending on rank.
-- Forum system.
-- Minecraft integration - possible to verify registered accounts, or disable altogether.
-- New powerful module system allowing for further NamelessMC integration.
-- New template and language systems, allowing for total customisation.
-- Pretty URL option (requires mod_rewrite).
-- Widget system - allows modules to create widgets which can be displayed on most user-facing pages and display almost anything.
-- PlaceholderAPI Sync - Sync user's placeholders from your server(s) to your NamelessMC website. You can create automatic leaderboards for each placeholder type, and allow players to display them on their profile and forum posts.
+The following list is a brief summary of the features available in v1 pre-release 1:
+-Mine diamonds with any obtainable-item and get double.
 
-#### Customising Nameless
-- Check out [this wiki article](https://github.com/NamelessMC/Nameless/wiki/Nameless-2.0-Module-Developer-Documentation) for the Module Developer Documenation.
-- Developer documentation is coming soon for template and widget development.
+#### Customising Double-Drops
+Customizing will be soon and a article how will be released soon.
 
 ## Installation
-Please find installation instructions on [our wiki](https://docs.namelessmc.com/en/installation).
+Download DoubleDrops v1 pre-release 1 on [our SpigotMC](https://www.spigotmc.org/resources/doubledrops.100783/), or on [our discord](https://dsc.gg/listeddevelopment).
 
 ## Support
 Support can be found in one of the following places:
